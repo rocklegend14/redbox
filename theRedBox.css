@@ -1,6 +1,6 @@
 .bg-banner
 {
-	background-image:url("C:/Users/gnanesh/Downloads/header-bg trb.webp");
+	background-image:url("images/header-bg trb.webp");
 	padding-bottom:10px;
 	padding-top:18px;
 	background-repeat:no-repeat;
@@ -89,17 +89,17 @@
 }
 .fb-logo
 {
-	background-image:url("C:/Users/gnanesh/Downloads/fb.webp");
+	background-image:url("images/fb.webp");
 	background-repeat:no-repeat;
 }
 .insta-logo
 {
-	background-image:url("C:/Users/gnanesh/Downloads/insta.webp");
+	background-image:url("images/insta.webp");
 	background-repeat:no-repeat;
 }
 .menu-content
 {
-	background:url("C:/Users/gnanesh/Downloads/bg-03.webp")no-repeat center top;
+	background:url("images/bg-03.webp")no-repeat center top;
 	width:25%;
 }
 .content
